@@ -1,6 +1,22 @@
 is-studying
 ===========
 
+
+##Priorities:
+1. DONE! Basic web interface.
+  1. Absolutely basic: Just names of people studying. Not even subjects. (They can add subjects if they want)
+  2. So must have way to say "Add me" (include name) and "Remove me".
+    3. Going to assume each person will only remove themselves.
+    4. Need to tell user if didn't remove (i.e. spelled wrong)
+    
+
+
+
+----------------------
+
+Below:THE BIGGER PLAN
+===============
+
 Is studying happening in the tutor room?
 
 
@@ -13,14 +29,13 @@ And sees...
 
 #Is Anyone Studying?
 
-Password: __________
-
 Subject|Number of people studying now
 -------|------------
 PHYS 1111 | 2
 PHYS 3000|1
 Unspecified| 2
 
+Password: __________
 
 --------------
 
